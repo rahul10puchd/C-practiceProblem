@@ -38,7 +38,7 @@ void printStudent(struct student *s)
 }
 
 //Driver Code
-int main()
+int main2()
 {
     struct student *s1, *s2;
 
