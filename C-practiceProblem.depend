@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521396816 source:e:\projet_codeblocks\c-practiceproblem\structure\variable_sized_array__in_structure.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
